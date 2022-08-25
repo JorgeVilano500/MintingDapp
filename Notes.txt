@@ -1,0 +1,2 @@
+Used hardhat in the command line to initialize some of the stuff 
+this is new to me because I use truffle as my way to deploy and ganache as a home blockchain
